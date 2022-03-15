@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773918803959",
+    "project_id": "splitbill-49e59",
+    "storage_bucket": "splitbill-49e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773918803959:android:383f80856983a45e0b90f2",
+        "android_client_info": {
+          "package_name": "com.shubham.splitbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773918803959-el6tluhrgnedar21qcuprau7sd956tol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.splitbill",
+            "certificate_hash": "deae8fcec1439e6b3163301a418f691073cc1ec4"
+          }
+        },
+        {
+          "client_id": "773918803959-a9k51rpt81fnfd3641qs0gudesm1glot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpFnZMQimq1sQoK2wQw9QkieQzno97zEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773918803959-a9k51rpt81fnfd3641qs0gudesm1glot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
